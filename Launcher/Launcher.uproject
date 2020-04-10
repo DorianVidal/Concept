@@ -16,6 +16,10 @@
 		{
 			"Name": "SQLiteSupport",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
