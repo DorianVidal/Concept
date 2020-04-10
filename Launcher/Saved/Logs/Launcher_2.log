@@ -1,0 +1,1553 @@
+﻿Log file open, 04/10/20 09:17:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Launcher
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.076602
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AutoSizeComments
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername="MrMium Twitch" -epicuserid=12454aa9b449447e8eabc735cbe08801 -epiclocale=fr
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.10-07.17.53:889][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.10-07.17.53:889][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.10-07.17.53:889][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:889][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.10-07.17.53:889][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.10-07.17.53:889][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:889][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.10-07.17.53:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:890][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:894][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.10-07.17.53:895][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.10-07.17.53:896][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.10-07.17.53:896][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.10-07.17.53:896][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.10-07.17.53:900][  0]LogHAL: Display: Platform has ~ 32 GB [34287583232 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.10-07.17.53:900][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.10-07.17.53:900][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.10-07.17.53:901][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/doria/Desktop/Launcher/Saved/Config/Windows/Engine.ini]
+[2020.04.10-07.17.53:901][  0]LogInit: Computer: DESKTOP-OA3L0L8
+[2020.04.10-07.17.53:901][  0]LogInit: User: doria
+[2020.04.10-07.17.53:901][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.10-07.17.53:901][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.10-07.17.53:901][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.10-07.17.53:901][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.10-07.17.53:901][  0]LogMemory: Process Physical Memory: 101.82 MB used, 101.82 MB peak
+[2020.04.10-07.17.53:901][  0]LogMemory: Process Virtual Memory: 102.25 MB used, 102.25 MB peak
+[2020.04.10-07.17.53:901][  0]LogMemory: Physical Memory: 7465.07 MB used,  25234.11 MB free, 32699.19 MB total
+[2020.04.10-07.17.53:901][  0]LogMemory: Virtual Memory: 4703.21 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.04.10-07.17.53:904][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.10-07.17.53:931][  0]LogInit: Using OS detected language (fr-FR).
+[2020.04.10-07.17.53:931][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.04.10-07.17.53:932][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.04.10-07.17.53:932][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.04.10-07.17.53:932][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.04.10-07.17.53:932][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.04.10-07.17.53:933][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.04.10-07.17.53:933][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.04.10-07.17.53:933][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.04.10-07.17.53:933][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.04.10-07.17.53:934][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.10-07.17.53:992][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.10-07.17.53:992][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.10-07.17.54:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.10-07.17.54:172][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.10-07.17.54:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.04.10-07.17.54:256][  0]LogD3D11RHI:       8031/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.10-07.17.54:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.10-07.17.54:258][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.10-07.17.54:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.10-07.17.54:268][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.10-07.17.54:268][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.10-07.17.54:268][  0]LogWindows: EnumDisplayDevices:
+[2020.04.10-07.17.54:268][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.04.10-07.17.54:268][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2020.04.10-07.17.54:269][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.04.10-07.17.54:269][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.04.10-07.17.54:269][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.10-07.17.54:269][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.04.10-07.17.54:269][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.10-07.17.54:269][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.10-07.17.54:269][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.10-07.17.54:438][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.10-07.17.54:476][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.10-07.17.54:888][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.10-07.17.54:898][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.10-07.17.54:909][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.10-07.17.54:919][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.10-07.17.54:929][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.10-07.17.54:939][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.10-07.17.54:951][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.10-07.17.54:964][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.10-07.17.54:970][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.10-07.17.55:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.10-07.17.55:019][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.10-07.17.55:043][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.10-07.17.55:043][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.10-07.17.55:059][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.10-07.17.55:059][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.10-07.17.55:068][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.10-07.17.55:077][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.10-07.17.55:085][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.10-07.17.55:095][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.10-07.17.55:124][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.10-07.17.55:124][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.10-07.17.55:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.10-07.17.55:135][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.10-07.17.55:205][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Users/doria/Desktop/Launcher/Intermediate/Shaders/WorkingDirectory/13204/).
+[2020.04.10-07.17.55:205][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/doria/AppData/Local/Temp/UnrealShaderWorkingDir/DE55EA5A4843E4B55A007FBD7D63F040/'.
+[2020.04.10-07.17.55:209][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.10-07.17.55:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.10-07.17.55:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.10-07.17.55:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/doria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/doria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/doria/Desktop/Launcher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/doria/Desktop/Launcher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.10-07.17.55:866][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.10-07.17.55:878][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.10-07.17.55:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.10-07.17.55:878][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.10-07.17.55:880][  0]LogDerivedDataCache: Using Local data cache path C:/Users/doria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.10-07.17.55:880][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.10-07.17.55:880][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.10-07.17.55:901][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.10-07.17.55:904][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.10-07.17.55:905][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.10-07.17.55:963][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.04.10-07.17.56:244][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.10-07.17.56:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.10-07.17.56:395][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.10-07.17.56:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.10-07.17.56:395][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.10-07.17.56:395][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.10-07.17.56:403][  0]LogNetVersion: Launcher 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4227089166)
+[2020.04.10-07.17.56:932][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.177299 seconds
+[2020.04.10-07.17.56:943][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.10-07.17.56:943][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.10-07.17.56:943][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.10-07.17.57:807][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.10-07.17.57:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.10-07.17.59:480][  0]SourceControl: Source control is disabled
+[2020.04.10-07.17.59:480][  0]SourceControl: Source control is disabled
+[2020.04.10-07.17.59:481][  0]SourceControl: Source control is disabled
+[2020.04.10-07.17.59:482][  0]SourceControl: Source control is disabled
+[2020.04.10-07.18.02:247][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.10-07.18.03:001][  0]LogOcInput: OculusInput pre-init called
+[2020.04.10-07.18.03:010][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.10-07.18.03:010][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.10-07.18.03:143][  0]LogEngine: Initializing Engine...
+[2020.04.10-07.18.03:144][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.10-07.18.03:145][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.10-07.18.03:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.10-07.18.03:389][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.10-07.18.03:437][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.18.03:456][  0]LogInit: FAudioDevice initialized.
+[2020.04.10-07.18.03:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.10-07.18.11:896][  0]LogDerivedDataCache: Saved boot cache 8.44s 73MB C:/Users/doria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.10-07.18.11:900][  0]LogInit: Texture streaming: Enabled
+[2020.04.10-07.18.11:923][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.10-07.18.11:923][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.10-07.18.11:924][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.10-07.18.11:991][  0]LogInit: Transaction tracking system initialized
+[2020.04.10-07.18.12:032][  0]BlueprintLog: New page: Editor Load
+[2020.04.10-07.18.12:134][  0]LocalizationService: Localization service is disabled
+[2020.04.10-07.18.12:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/doria/Desktop/Launcher/Content/' took 0.00s
+[2020.04.10-07.18.12:421][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.10-07.18.12:421][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.10-07.18.12:627][  0]SourceControl: Source control is disabled
+[2020.04.10-07.18.12:627][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.10-07.18.12:628][  0]LightingResults: New page: Lighting Build
+[2020.04.10-07.18.12:631][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.18.12:631][  0]MapCheck: New page: Map Check
+[2020.04.10-07.18.12:631][  0]LightingResults: New page: Lighting Build
+[2020.04.10-07.18.12:668][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.10-07.18.12:773][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.10-07.18.12:780][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.10-07.18.12:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.10-07.18.12:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.10-07.18.12:818][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,217ms to complete.
+[2020.04.10-07.18.12:819][  0]LogFileHelpers: Loading map 'Template_Default' took 0.191
+[2020.04.10-07.18.12:941][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.18.12:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.18.12:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.18.12:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.18.12:973][  0]LogCollectionManager: Loaded 0 collections in 0.002874 seconds
+[2020.04.10-07.18.12:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/doria/Desktop/Launcher/Saved/Collections/' took 0.00s
+[2020.04.10-07.18.12:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/doria/Desktop/Launcher/Content/Developers/doria/Collections/' took 0.00s
+[2020.04.10-07.18.12:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/doria/Desktop/Launcher/Content/Collections/' took 0.00s
+[2020.04.10-07.18.12:981][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.10-07.18.12:990][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2865 classes and 685 folders.
+[2020.04.10-07.18.12:998][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.10-07.18.13:043][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.10-07.18.13:107][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.10-07.18.13:120][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.18.13:125][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.18.13:127][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.18.13:181][  0]LogRenderer: Reallocating scene render targets to support 876x620 Format 10 NumSamples 1 (Frame:1).
+[2020.04.10-07.18.13:306][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.10-07.18.13:307][  0]LogLoad: (Engine Initialization) Total time: 21.53 seconds
+[2020.04.10-07.18.13:307][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.10-07.18.13:351][  0]LogAssetRegistry: Asset discovery search completed in 17.3881 seconds
+[2020.04.10-07.18.13:355][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.04.10-07.18.13:355][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2020.04.10-07.18.13:356][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.10-07.18.13:372][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.18.58:182][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.10-07.18.59:048][788]Cmd: DELETE
+[2020.04.10-07.18.59:049][788]Cmd: ACTOR DELETE
+[2020.04.10-07.18.59:050][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-07.18.59:086][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.10-07.18.59:087][788]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.04.10-07.18.59:962][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.10-07.19.00:057][901]Cmd: DELETE
+[2020.04.10-07.19.00:057][901]Cmd: ACTOR DELETE
+[2020.04.10-07.19.00:058][901]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.04.10-07.19.00:094][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.10-07.19.00:094][901]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.04.10-07.19.01:706][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-07.19.01:864][ 61]Cmd: DELETE
+[2020.04.10-07.19.01:864][ 61]Cmd: ACTOR DELETE
+[2020.04.10-07.19.01:865][ 61]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.04.10-07.19.01:902][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.04.10-07.19.01:902][ 61]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.04.10-07.19.02:489][108]Cmd: DELETE
+[2020.04.10-07.19.02:490][108]Cmd: ACTOR DELETE
+[2020.04.10-07.19.02:491][108]LogEditorActor: Deleted Actor: SkyLight
+[2020.04.10-07.19.02:525][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.10-07.19.02:525][108]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.04.10-07.19.03:375][201]Cmd: DELETE
+[2020.04.10-07.19.03:375][201]Cmd: ACTOR DELETE
+[2020.04.10-07.19.03:376][201]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.04.10-07.19.03:411][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.04.10-07.19.03:412][201]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.04.10-07.19.04:149][283]Cmd: DELETE
+[2020.04.10-07.19.04:149][283]Cmd: ACTOR DELETE
+[2020.04.10-07.19.04:150][283]LogEditorActor: Deleted Actor: PlayerStart
+[2020.04.10-07.19.04:185][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.10-07.19.04:186][283]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.04.10-07.19.04:634][320]Cmd: DELETE
+[2020.04.10-07.19.04:634][320]Cmd: ACTOR DELETE
+[2020.04.10-07.19.04:635][320]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.04.10-07.19.04:669][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.10-07.19.04:669][320]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.04.10-07.19.05:234][388]LogEditorViewport: Clicking Background
+[2020.04.10-07.22.46:564][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-07.22.54:284][ 75]LogAIModule: Creating AISystem for world Connection
+[2020.04.10-07.22.55:430][144]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.22.55:583][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.10-07.22.55:583][144]LogMetaData: Removing '/Game/Map/Connection.Connection_C' ref from Metadata '/Game/Connection.PackageMetaData'
+[2020.04.10-07.22.55:583][144]LogMetaData: Removing '/Game/Map/Connection.Connection:PersistentLevel.Connection.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Connection.PackageMetaData'
+[2020.04.10-07.22.55:583][144]LogMetaData: Removing '/Game/Map/Connection.Connection:PersistentLevel.Connection.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Connection.PackageMetaData'
+[2020.04.10-07.22.55:583][144]LogMetaData: Removing '/Game/Map/Connection.SKEL_Connection_C' ref from Metadata '/Game/Connection.PackageMetaData'
+[2020.04.10-07.22.55:607][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection_BuiltData" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_BuiltData.uasset" SILENT=true
+[2020.04.10-07.22.55:623][144]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_BuiltDataE566C4C445116B98A9BBEFA17D57BD8C.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_BuiltData.uasset'
+[2020.04.10-07.22.55:634][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-07.22.55:671][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.10-07.22.55:775][144]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/ConnectionB2779D744FA125AC6C4F37A3A4CEA0FE.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection.umap'
+[2020.04.10-07.22.55:779][144]LogFileHelpers: Saving map 'Connection' took 0.145
+[2020.04.10-07.22.55:934][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.04.10-07.22.55:967][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.10-07.22.56:004][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.10-07.22.56:037][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.10-07.23.08:073][327]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IU/Connection.Connection
+[2020.04.10-07.23.08:331][327]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.10-07.23.09:519][327]LogSlate: Took 0.006517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.23.11:409][458]LogSlate: Window 'Connection' being destroyed
+[2020.04.10-07.23.40:160][301]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IU/Main.Main
+[2020.04.10-07.24.09:831][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset" SILENT=true
+[2020.04.10-07.24.09:844][151]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Main2ED3760243FC9B5F06AAAA8507AC8C9F.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset'
+[2020.04.10-07.24.37:657][632]LogEditorTransaction: Undo Move Widget
+[2020.04.10-07.25.13:840][963]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={43B3448D-4288-0340-A016-49B978D6045E}
+[2020.04.10-07.26.35:325][769]BlueprintLog: New page: Compile Main
+[2020.04.10-07.26.35:602][769]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.04.10-07.26.35:904][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset" SILENT=true
+[2020.04.10-07.26.35:928][788]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/MainE4B8A0764C20FFFBBD6A9C9B944F9139.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset'
+[2020.04.10-07.27.03:428][500]LogEditorTransaction: Undo Move Node
+[2020.04.10-07.27.23:943][612]BlueprintLog: New page: Compile Main
+[2020.04.10-07.27.23:990][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.04.10-07.28.13:915][939]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={561B3AAC-43E5-7D66-AE1F-B49BB1823EBD}
+[2020.04.10-07.30.27:318][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset" SILENT=true
+[2020.04.10-07.30.27:333][124]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/ConnectionD833354C4ABAFF9CF3F254B8D6A946BE.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset'
+[2020.04.10-07.30.55:210][310]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 50310
+[2020.04.10-07.30.55:216][311]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.30.55:221][311]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.30.55:221][311]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.30.55:223][311]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.30.55:225][311]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.30.55:831][382]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 72
+[2020.04.10-07.30.55:838][383]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.30.55:844][383]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.30.55:844][383]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.30.55:845][383]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.30.55:847][383]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.32.55:719][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.04.10-07.32.55:720][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.10-07.32.55:737][251]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Untitled_1_Auto1069AF4BB4E367C52BF8EF587B6844DE3.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.04.10-07.32.55:744][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.068
+[2020.04.10-07.32.55:744][251]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2020.04.10-07.32.55:753][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IU/Connection] ([1] browsable assets)...
+[2020.04.10-07.32.55:753][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/IU/Connection]
+[2020.04.10-07.32.55:753][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Connection_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-07.32.55:772][251]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_Auto1C36A7F80401E12E54BB395A719A5C709.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Connection_Auto1.uasset'
+[2020.04.10-07.32.55:774][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IU/Inscription] ([1] browsable assets)...
+[2020.04.10-07.32.55:774][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/IU/Inscription]
+[2020.04.10-07.32.55:774][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription" FILE="../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Inscription_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-07.32.55:785][251]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_Auto15D882E3247D0AF4FC06332B5939F2155.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Inscription_Auto1.uasset'
+[2020.04.10-07.32.55:786][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IU/Main] ([1] browsable assets)...
+[2020.04.10-07.32.55:786][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/IU/Main]
+[2020.04.10-07.32.55:786][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main" FILE="../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Main_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-07.32.55:811][251]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Main_Auto12CF260E2435740EE40ECC0949B7EB64D.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/IU/Main_Auto1.uasset'
+[2020.04.10-07.32.55:812][251]LogFileHelpers: Auto-saving content packages took 0.060
+[2020.04.10-07.33.54:461][678]BlueprintLog: New page: Compile Connection
+[2020.04.10-07.33.54:505][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.10-07.33.55:295][741]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.34.00:853][120]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled
+[2020.04.10-07.34.34:991][861]LogSlate: Took 0.006551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.10-07.34.41:129][440]BlueprintLog: New page: Compile Untitled
+[2020.04.10-07.34.41:359][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.04.10-07.34.42:150][516]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-07.34.42:169][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.04.10-07.34.42:169][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.34.42:170][516]PIE: New page: PIE session: Untitled_1 (10 avr. 2020 11:34:42)
+[2020.04.10-07.34.42:170][516]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.10-07.34.42:172][516]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.10-07.34.42:173][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001373s)
+[2020.04.10-07.34.42:174][516]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.10-07.34.42:174][516]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2020.04.10-07.34.42:174][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002546s)
+[2020.04.10-07.34.42:215][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.04.10-07.34.42:254][516]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.34.42:262][516]LogInit: FAudioDevice initialized.
+[2020.04.10-07.34.42:272][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.34.42:274][516]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.34.42:274][516]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.10-09.34.42
+[2020.04.10-07.34.42:275][516]LogWorld: Bringing up level for play took: 0.000435
+[2020.04.10-07.34.42:275][516]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.10-07.34.42:277][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.34.42:292][516]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.10-07.34.42:296][516]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,302
+[2020.04.10-07.34.42:297][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.04.10-07.34.42:317][517]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.10-07.35.00:579][809]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.35.00:587][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.04.10-07.35.00:587][809]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.10-07.35.00:587][809]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.35.00:597][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.35.00:597][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.04.10-07.35.00:673][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.04.10-07.35.00:697][810]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.10-07.35.43:627][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset" SILENT=true
+[2020.04.10-07.35.43:643][609]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/ConnectionF77D68AC4A75F5FA50BC34966A5DD356.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset'
+[2020.04.10-07.36.20:995][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset" SILENT=true
+[2020.04.10-07.36.21:011][264]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/ConnectionE289A3704BF01BAA3DAA42A08B4132C3.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset'
+[2020.04.10-07.37.15:703][565]BlueprintLog: New page: Compile Connection
+[2020.04.10-07.37.15:757][565]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.04.10-07.37.25:537][601]BlueprintLog: New page: Compile Untitled
+[2020.04.10-07.37.25:806][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.04.10-07.37.36:301][436]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.10-07.37.37:366][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.04.10-07.37.38:803][551]LogSlate: Window 'Save Content' being destroyed
+[2020.04.10-07.37.38:826][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset" SILENT=true
+[2020.04.10-07.37.38:841][551]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection7B13EA5746893DC22E21B6BC0F8C787A.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset'
+[2020.04.10-07.37.38:852][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription.uasset" SILENT=true
+[2020.04.10-07.37.38:863][551]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription63F6B2EF40F3B5CB4F9856A9F9CB99EB.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription.uasset'
+[2020.04.10-07.37.38:878][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset" SILENT=true
+[2020.04.10-07.37.38:896][551]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/MainB0903D264F77DCDEBEFAD4A994893DC6.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main.uasset'
+[2020.04.10-07.37.43:798][551]LogSlate: Window 'Message' being destroyed
+[2020.04.10-07.37.43:801][551]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.10-07.37.43:856][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.10-07.37.43:897][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.10-07.37.43:940][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.10-07.37.43:983][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.10-07.37.44:256][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.10-07.37.44:261][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-07.37.44:308][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.10-07.37.44:554][551]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection13DD1C804AD3B6BB9F62C1BAE24D3239.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection.umap'
+[2020.04.10-07.37.44:580][551]LogFileHelpers: Saving map 'Connection' took 0.683
+[2020.04.10-07.37.54:078][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.10-07.37.54:083][530]LogMetaData: Removing '/Game/Map/Connection_map.SKEL_Connection_map_C' ref from Metadata '/Game/Map/Connection.PackageMetaData'
+[2020.04.10-07.37.54:083][530]LogMetaData: Removing '/Game/Map/Connection_map.Connection_map_C' ref from Metadata '/Game/Map/Connection.PackageMetaData'
+[2020.04.10-07.37.54:083][530]LogMetaData: Removing '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Map/Connection.PackageMetaData'
+[2020.04.10-07.37.54:109][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection_map_BuiltData" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map_BuiltData.uasset" SILENT=true
+[2020.04.10-07.37.54:123][530]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_map_BuiltData8CD3A3134ACAD4F7CACE549FE807848E.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map_BuiltData.uasset'
+[2020.04.10-07.37.54:134][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection_map" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-07.37.54:180][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.04.10-07.37.54:430][530]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_map3A84245A4F0AC12105D67DB772896498.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map.umap'
+[2020.04.10-07.37.54:454][530]LogFileHelpers: Saving map 'Connection_map' took 0.321
+[2020.04.10-07.37.54:812][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.10-07.37.54:856][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.10-07.37.54:906][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.10-07.37.54:947][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.10-07.38.11:038][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.10-07.38.11:333][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.10-07.38.11:336][244]LogMetaData: Removing '/Game/IU/Connection_wid.SKEL_Connection_wid_C' ref from Metadata '/Game/IU/Connection.PackageMetaData'
+[2020.04.10-07.38.11:336][244]LogMetaData: Removing '/Game/IU/Connection_wid.Connection_wid_C' ref from Metadata '/Game/IU/Connection.PackageMetaData'
+[2020.04.10-07.38.11:336][244]LogMetaData: Removing '/Game/IU/Connection_wid.Connection_wid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/IU/Connection.PackageMetaData'
+[2020.04.10-07.38.11:336][244]LogMetaData: Removing '/Game/IU/Connection_wid.Connection_wid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/IU/Connection.PackageMetaData'
+[2020.04.10-07.38.11:336][244]LogMetaData: Removing '/Game/IU/Connection_wid.Connection_wid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/IU/Connection.PackageMetaData'
+[2020.04.10-07.38.11:362][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset" SILENT=true
+[2020.04.10-07.38.11:381][244]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_wid9C78CC9E4501CB7FE6BB82939570DA3B.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset'
+[2020.04.10-07.38.11:393][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset" SILENT=true
+[2020.04.10-07.38.11:406][244]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/ConnectionF7D5491447066A47B416CD9A1C2A2C72.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection.uasset'
+[2020.04.10-07.38.17:790][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.10-07.38.17:791][942]LogMetaData: Removing '/Game/IU/Inscription_wid.SKEL_Inscription_wid_C' ref from Metadata '/Game/IU/Inscription.PackageMetaData'
+[2020.04.10-07.38.17:791][942]LogMetaData: Removing '/Game/IU/Inscription_wid.Inscription_wid_C' ref from Metadata '/Game/IU/Inscription.PackageMetaData'
+[2020.04.10-07.38.17:791][942]LogMetaData: Removing '/Game/IU/Inscription_wid.Inscription_wid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/IU/Inscription.PackageMetaData'
+[2020.04.10-07.38.17:791][942]LogMetaData: Removing '/Game/IU/Inscription_wid.Inscription_wid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/IU/Inscription.PackageMetaData'
+[2020.04.10-07.38.17:791][942]LogMetaData: Removing '/Game/IU/Inscription_wid.Inscription_wid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/IU/Inscription.PackageMetaData'
+[2020.04.10-07.38.17:816][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.38.17:828][942]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_wid7ED0F57543F5A56CAFDF7AA21FCE3460.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.38.18:037][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.10-07.38.18:086][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.10-07.38.18:128][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.10-07.38.24:071][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.04.10-07.38.24:079][578]LogMetaData: Removing '/Game/IU/Main_wid.SKEL_Main_wid_C' ref from Metadata '/Game/IU/Main.PackageMetaData'
+[2020.04.10-07.38.24:079][578]LogMetaData: Removing '/Game/IU/Main_wid.Main_wid_C' ref from Metadata '/Game/IU/Main.PackageMetaData'
+[2020.04.10-07.38.24:079][578]LogMetaData: Removing '/Game/IU/Main_wid.Main_wid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/IU/Main.PackageMetaData'
+[2020.04.10-07.38.24:079][578]LogMetaData: Removing '/Game/IU/Main_wid.Main_wid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/IU/Main.PackageMetaData'
+[2020.04.10-07.38.24:079][578]LogMetaData: Removing '/Game/IU/Main_wid.Main_wid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/IU/Main.PackageMetaData'
+[2020.04.10-07.38.24:104][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main_wid.uasset" SILENT=true
+[2020.04.10-07.38.24:126][578]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Main_wid63B379A746CEBA88CD99FCA48D98EF08.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main_wid.uasset'
+[2020.04.10-07.38.24:335][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.04.10-07.38.24:381][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.10-07.38.24:425][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.10-07.38.58:131][675]BlueprintLog: New page: Compile Connection_map
+[2020.04.10-07.38.58:397][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.04.10-07.39.47:171][936]LogSlate: Took 0.006250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.10-07.40.25:248][833]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.40.25:295][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.04.10-07.41.06:100][857]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.41.06:150][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.10-07.41.08:870][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-07.41.08:890][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.08:890][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.41.08:890][113]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:41:08)
+[2020.04.10-07.41.08:890][113]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.41.08:891][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2020.04.10-07.41.08:892][113]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.41.08:892][113]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2020.04.10-07.41.08:892][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002258s)
+[2020.04.10-07.41.08:934][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.10-07.41.08:970][113]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.41.08:978][113]LogInit: FAudioDevice initialized.
+[2020.04.10-07.41.08:985][113]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.41.08:985][113]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.41.08
+[2020.04.10-07.41.08:985][113]LogWorld: Bringing up level for play took: 0.000289
+[2020.04.10-07.41.08:985][113]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.10-07.41.08:988][113]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,994
+[2020.04.10-07.41.08:988][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.10:717][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.10:718][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.41.10:718][307]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.41.10:718][307]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.41.10:738][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.41.10:739][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.10:788][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.41.10:792][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.10-07.41.10:828][310]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.10-07.41.16:878][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.16:878][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.41.16:878][731]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:41:16)
+[2020.04.10-07.41.16:878][731]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.41.16:880][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001194s)
+[2020.04.10-07.41.16:880][731]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.41.16:880][731]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2020.04.10-07.41.16:881][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002117s)
+[2020.04.10-07.41.16:923][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.10-07.41.16:960][731]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.41.16:967][731]LogInit: FAudioDevice initialized.
+[2020.04.10-07.41.16:977][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.41.16:977][731]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.41.16:978][731]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.41.16
+[2020.04.10-07.41.16:978][731]LogWorld: Bringing up level for play took: 0.000348
+[2020.04.10-07.41.16:978][731]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.10-07.41.16:983][731]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,988
+[2020.04.10-07.41.16:984][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.21:048][996]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:002C
+[2020.04.10-07.41.21:048][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.41.23:226][152]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.41.23:232][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.23:232][152]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.41.23:232][152]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.41.23:243][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.41.23:243][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.41.23:293][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.10-07.41.23:321][154]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.10-07.42.01:210][281]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.42.01:259][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.10-07.42.05:280][649]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.42.05:299][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.42.05:299][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.42.05:299][649]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:42:05)
+[2020.04.10-07.42.05:299][649]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.42.05:300][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001414s)
+[2020.04.10-07.42.05:301][649]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.42.05:301][649]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2020.04.10-07.42.05:301][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002443s)
+[2020.04.10-07.42.05:345][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.04.10-07.42.05:381][649]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.42.05:388][649]LogInit: FAudioDevice initialized.
+[2020.04.10-07.42.05:396][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.42.05:396][649]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.42.05:397][649]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.42.05
+[2020.04.10-07.42.05:397][649]LogWorld: Bringing up level for play took: 0.000287
+[2020.04.10-07.42.05:397][649]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.10-07.42.05:402][649]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map -0,592
+[2020.04.10-07.42.05:403][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.42.07:007][762]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0025
+[2020.04.10-07.42.07:007][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.42.09:989][976]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.42.09:996][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.42.09:997][976]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.42.09:997][976]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.42.10:004][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.42.10:004][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.42.10:058][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.10-07.42.10:086][978]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.10-07.42.16:904][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset" SILENT=true
+[2020.04.10-07.42.16:928][403]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_widC36AFB9E49632F7878D08C99605E4353.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset'
+[2020.04.10-07.42.22:548][833]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IU/Inscription_wid.Inscription_wid
+[2020.04.10-07.43.38:645][798]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 56416
+[2020.04.10-07.43.38:653][799]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.43.38:658][799]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.43.38:659][799]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.43.38:660][799]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.43.38:662][799]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.43.38:877][823]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 25
+[2020.04.10-07.43.38:883][824]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.43.38:887][824]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.43.38:888][824]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.43.38:889][824]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.43.38:891][824]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.43.40:025][958]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 135
+[2020.04.10-07.43.40:031][959]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-07.43.40:036][959]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.43.40:037][959]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-07.43.40:038][959]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-07.43.40:040][959]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-07.44.43:136][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.44.43:157][194]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_wid9EC7E1364F3184D3893D2EA083A134DB.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.45.28:898][112]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.10-07.46.24:279][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.46.24:296][592]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_widF5D54EAA4859ABE8F88721800DC750C9.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.46.26:105][792]BlueprintLog: New page: Compile Inscription_wid
+[2020.04.10-07.46.26:162][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.04.10-07.47.03:931][263]BlueprintLog: New page: Compile Inscription_wid
+[2020.04.10-07.47.03:979][263]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.10-07.48.28:806][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.48.28:830][992]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_wid68EB8B0649FB6BD2637F92A2F403E61F.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.48.31:781][332]BlueprintLog: New page: Compile Inscription_wid
+[2020.04.10-07.48.31:832][332]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.04.10-07.49.02:519][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.04.10-07.49.02:520][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection_map" FILE="../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/Map/Connection_map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.10-07.49.02:788][ 70]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_map_Auto28CDDE68140C40BDCCDEF998DD488FFCE.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Saved/Autosaves/Game/Map/Connection_map_Auto2.umap'
+[2020.04.10-07.49.02:791][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Connection_map' took 0.324
+[2020.04.10-07.49.02:791][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.324
+[2020.04.10-07.50.32:199][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.50.32:231][368]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_wid9D9972DE4FA5B548A2BEA1829A047483.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.50.34:478][613]BlueprintLog: New page: Compile Inscription_wid
+[2020.04.10-07.50.34:528][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.10-07.50.39:255][108]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.50.39:280][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.50.39:280][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.50.39:280][108]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:50:39)
+[2020.04.10-07.50.39:280][108]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.50.39:282][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2020.04.10-07.50.39:282][108]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.50.39:282][108]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2020.04.10-07.50.39:282][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002109s)
+[2020.04.10-07.50.39:330][108]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.04.10-07.50.39:367][108]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.50.39:375][108]LogInit: FAudioDevice initialized.
+[2020.04.10-07.50.39:384][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.50.39:384][108]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.50.39:385][108]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.50.39
+[2020.04.10-07.50.39:385][108]LogWorld: Bringing up level for play took: 0.000377
+[2020.04.10-07.50.39:385][108]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.10-07.50.39:386][108]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.50.39:389][108]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map -0,606
+[2020.04.10-07.50.39:390][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.50.41:002][224]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0025
+[2020.04.10-07.50.41:002][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.50.44:797][480]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.50.44:806][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.50.44:806][480]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.50.44:806][480]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.50.44:815][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.50.44:815][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.50.44:874][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.10-07.50.44:894][481]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.10-07.51.11:239][529]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.51.11:292][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.10-07.51.12:313][634]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.51.12:338][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.51.12:338][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.51.12:338][634]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:51:12)
+[2020.04.10-07.51.12:338][634]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.51.12:339][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001220s)
+[2020.04.10-07.51.12:340][634]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.51.12:341][634]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2020.04.10-07.51.12:341][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002534s)
+[2020.04.10-07.51.12:388][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.04.10-07.51.12:426][634]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.51.12:432][634]LogInit: FAudioDevice initialized.
+[2020.04.10-07.51.12:442][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.51.12:442][634]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.51.12:443][634]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.51.12
+[2020.04.10-07.51.12:443][634]LogWorld: Bringing up level for play took: 0.000424
+[2020.04.10-07.51.12:444][634]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.10-07.51.12:445][634]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.51.12:447][634]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,452
+[2020.04.10-07.51.12:448][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.51.13:373][699]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.13:373][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.14:386][772]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.14:386][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.14:553][784]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.14:553][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.14:720][796]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.14:720][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.14:900][809]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.14:900][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.15:067][821]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.15:067][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.15:206][831]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.15:206][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.15:372][843]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.15:373][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.15:594][859]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0017
+[2020.04.10-07.51.15:594][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.51.17:563][  0]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.51.17:571][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.51.17:571][  0]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.51.17:571][  0]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.51.17:578][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.51.17:579][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.51.17:634][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.10-07.51.17:667][  1]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.10-07.51.18:800][ 82]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-07.51.26:794][543]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.04.10-07.52.39:021][824]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.52.39:073][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.04.10-07.52.46:276][511]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.52.46:314][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.52.46:314][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.52.46:314][511]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:52:46)
+[2020.04.10-07.52.46:315][511]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.52.46:316][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2020.04.10-07.52.46:316][511]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.52.46:317][511]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2020.04.10-07.52.46:317][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.001986s)
+[2020.04.10-07.52.46:365][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.04.10-07.52.46:404][511]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.52.46:411][511]LogInit: FAudioDevice initialized.
+[2020.04.10-07.52.46:420][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.52.46:420][511]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.52.46:421][511]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.52.46
+[2020.04.10-07.52.46:421][511]LogWorld: Bringing up level for play took: 0.000457
+[2020.04.10-07.52.46:422][511]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.10-07.52.46:423][511]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.52.46:426][511]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,432
+[2020.04.10-07.52.46:427][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.52.47:507][589]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0025
+[2020.04.10-07.52.47:507][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.52.52:308][934]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.52.52:315][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.52.52:315][934]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.52.52:315][934]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.52.52:326][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.52.52:326][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.52.52:382][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.10-07.52.52:402][935]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.10-07.53.19:527][156]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.53.19:580][156]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.10-07.53.20:366][229]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.53.20:391][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.53.20:391][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.53.20:391][229]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:53:20)
+[2020.04.10-07.53.20:391][229]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.53.20:393][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001160s)
+[2020.04.10-07.53.20:393][229]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.53.20:393][229]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2020.04.10-07.53.20:393][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002068s)
+[2020.04.10-07.53.20:440][229]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.10-07.53.20:478][229]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.53.20:485][229]LogInit: FAudioDevice initialized.
+[2020.04.10-07.53.20:494][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.53.20:494][229]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.53.20:495][229]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.53.20
+[2020.04.10-07.53.20:495][229]LogWorld: Bringing up level for play took: 0.000393
+[2020.04.10-07.53.20:495][229]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.10-07.53.20:496][229]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.53.20:499][229]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,504
+[2020.04.10-07.53.20:499][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.53.21:709][316]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0025
+[2020.04.10-07.53.21:709][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.53.22:886][400]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.53.22:893][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.53.22:893][400]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.53.22:893][400]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.53.22:901][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.53.22:901][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.53.22:956][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.10-07.53.22:983][402]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.10-07.53.38:570][562]LogEditorTransaction: Undo Delete current selection
+[2020.04.10-07.54.02:412][572]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.54.02:464][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.10-07.54.04:147][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.54.04:172][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.54.04:172][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.54.04:172][704]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:54:04)
+[2020.04.10-07.54.04:172][704]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.54.04:174][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001763s)
+[2020.04.10-07.54.04:175][704]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.54.04:175][704]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2020.04.10-07.54.04:175][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002793s)
+[2020.04.10-07.54.04:220][704]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.04.10-07.54.04:258][704]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.54.04:265][704]LogInit: FAudioDevice initialized.
+[2020.04.10-07.54.04:273][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.54.04:273][704]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.54.04:274][704]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.54.04
+[2020.04.10-07.54.04:274][704]LogWorld: Bringing up level for play took: 0.000552
+[2020.04.10-07.54.04:274][704]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.10-07.54.04:276][704]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.54.04:278][704]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 0,283
+[2020.04.10-07.54.04:279][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.54.05:549][794]LogBlueprintUserMessages: [Connection_wid_C_0] 
+[2020.04.10-07.54.05:549][794]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0089
+[2020.04.10-07.54.05:549][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.54.08:842][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.54.08:842][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.54.08:842][ 31]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.54.08:852][ 31]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.54.08:860][ 31]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.54.08:865][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.54.08:865][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.54.08:918][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.10-07.54.08:944][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.10-07.54.33:930][972]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.10-07.55.01:400][483]BlueprintLog: New page: Compile Connection_wid
+[2020.04.10-07.55.01:456][483]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.04.10-07.55.02:237][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset" SILENT=true
+[2020.04.10-07.55.02:263][544]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_wid526CE7074ABEEFDD12E60B87A8FB9A55.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset'
+[2020.04.10-07.55.02:962][605]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.10-07.55.02:986][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.55.02:986][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-07.55.02:986][605]PIE: New page: PIE session: Connection_map (10 avr. 2020 11:55:02)
+[2020.04.10-07.55.02:986][605]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.55.02:988][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2020.04.10-07.55.02:988][605]LogAIModule: Creating AISystem for world Connection_map
+[2020.04.10-07.55.02:988][605]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2020.04.10-07.55.02:989][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Connection_map.Connection_map to /Game/Map/UEDPIE_0_Connection_map.Connection_map (0.002041s)
+[2020.04.10-07.55.03:032][605]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.04.10-07.55.03:070][605]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-07.55.03:077][605]LogInit: FAudioDevice initialized.
+[2020.04.10-07.55.03:086][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-07.55.03:086][605]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-07.55.03:086][605]LogWorld: Bringing World /Game/Map/UEDPIE_0_Connection_map.Connection_map up for play (max tick rate 0) at 2020.04.10-09.55.03
+[2020.04.10-07.55.03:087][605]LogWorld: Bringing up level for play took: 0.000352
+[2020.04.10-07.55.03:087][605]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.10-07.55.03:088][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-07.55.03:091][605]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Connection_map 1,096
+[2020.04.10-07.55.03:091][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.55.04:511][707]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:0015
+[2020.04.10-07.55.04:511][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Remove from Parent
+[2020.04.10-07.55.04:511][707]LogScript: Warning: Accessed None trying to read property Inscription_wid_ref
+	Connection_wid_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.Connection_wid_C_0
+	Function /Game/IU/Connection_wid.Connection_wid_C:ExecuteUbergraph_Connection_wid:003B
+[2020.04.10-07.55.04:511][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.55.04:997][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Remove from Parent
+[2020.04.10-07.55.04:997][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.55.05:178][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Remove from Parent
+[2020.04.10-07.55.05:178][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.55.05:359][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Remove from Parent
+[2020.04.10-07.55.05:359][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.55.05:553][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Remove from Parent
+[2020.04.10-07.55.05:553][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inscription_wid_ref". Blueprint:  Connection_wid Function:  Execute Ubergraph Connection Wid Graph:  EventGraph Node:  Add to Viewport
+[2020.04.10-07.55.07:494][921]LogSlate: Window 'Launcher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.10-07.55.07:500][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.55.07:501][921]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Connection_map
+[2020.04.10-07.55.07:501][921]LogWorld: UWorld::CleanupWorld for Connection_map, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.55.07:507][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-07.55.07:508][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Connection_map.Connection_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map' with GeneratedClass '/Game/Map/Connection_map.Connection_map_C' with ClassGeneratedBy '/Game/Map/Connection_map.Connection_map:PersistentLevel.Connection_map'
+[2020.04.10-07.55.07:562][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.04.10-07.55.07:594][922]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.10-07.55.49:608][146]BlueprintLog: New page: Compile Inscription_wid
+[2020.04.10-07.55.49:660][146]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.04.10-07.57.47:191][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Inscription_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset" SILENT=true
+[2020.04.10-07.57.47:222][795]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Inscription_widD64A1C8A4F8C4531DAEEB0970A20C12A.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Inscription_wid.uasset'
+[2020.04.10-07.57.55:279][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Connection_map" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-07.57.55:332][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.10-07.57.55:597][569]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_map8F2E3D6441973F8B87D70BA06B482A15.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/Map/Connection_map.umap'
+[2020.04.10-07.57.55:624][569]LogFileHelpers: Saving map 'Connection_map' took 0.345
+[2020.04.10-07.57.57:311][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Main_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main_wid.uasset" SILENT=true
+[2020.04.10-07.57.57:336][732]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Main_wid9B77115149A946B30B50E180FE76E8A1.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Main_wid.uasset'
+[2020.04.10-07.57.59:398][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset" SILENT=true
+[2020.04.10-07.57.59:416][933]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_wid05FFB4FE4C89AB8D44B1CF9AFE38F6D6.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset'
+[2020.04.10-07.58.03:739][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IU/Connection_wid" FILE="../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset" SILENT=true
+[2020.04.10-07.58.03:757][353]LogSavePackage: Moving '../../../../../../Users/doria/Desktop/Launcher/Saved/Connection_widC8560DBF4658942B1224FFBD18110CAE.tmp' to '../../../../../../Users/doria/Desktop/Launcher/Content/IU/Connection_wid.uasset'
+[2020.04.10-07.58.10:768][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.04.10-07.58.10:836][158]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:858][158]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:895][158]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:900][158]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:932][158]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:971][158]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.10:984][158]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.11:016][158]LogSlate: Window 'Launcher - Unreal Editor' being destroyed
+[2020.04.10-07.58.11:114][159]Cmd: QUIT_EDITOR
+[2020.04.10-07.58.11:429][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.10-07.58.11:446][159]LogExit: Preparing to exit.
+[2020.04.10-07.58.11:447][159]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0354EB4A4F7C16C32151689286304399.json
+[2020.04.10-07.58.11:885][159]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.11:890][159]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.11:942][159]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.10-07.58.11:953][159]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-07.58.11:953][159]LogExit: Editor shut down
+[2020.04.10-07.58.11:953][159]LogExit: Transaction tracking system shut down
+[2020.04.10-07.58.12:222][159]LogExit: Object subsystem successfully closed.
+[2020.04.10-07.58.12:245][159]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (688)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module Voice (686)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module SequencerWidgets (684)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module BlueprintGraph (682)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (680)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module WorldBrowser (678)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module AddContentDialog (676)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module WidgetCarousel (675)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module EditorWidgets (672)
+[2020.04.10-07.58.12:276][159]LogModuleManager: Shutting down and abandoning module CollectionManager (670)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (666)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module StatsViewer (664)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (662)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module FoliageEdit (660)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module LandscapeEditor (658)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MeshPaintMode (656)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (654)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module ActorPickerMode (652)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module GeometryMode (650)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module TextureAlignMode (648)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module BspMode (646)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (644)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (642)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AutomationWorker (640)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module OculusMR (638)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (636)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (634)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (632)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module PlacementMode (631)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MaterialEditor (630)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (626)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (624)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (622)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (620)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (618)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module WebMMedia (616)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (614)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (612)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module SequenceRecorder (611)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (608)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (606)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (604)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (602)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (600)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (598)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (596)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (594)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (592)
+[2020.04.10-07.58.12:277][159]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (590)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (588)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module CharacterAI (586)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module SmartSnapping (584)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module SessionServices (582)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module MeshPaint (580)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module ViewportSnapping (578)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module ViewportInteraction (576)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module ClothPainter (574)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (573)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module LogVisualizer (570)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module IntroTutorials (568)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (567)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (564)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (562)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (560)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (558)
+[2020.04.10-07.58.12:278][159]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (557)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (554)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (552)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (550)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (548)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (546)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module InputBindingEditor (544)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module MergeActors (542)
+[2020.04.10-07.58.13:274][159]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (540)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module LocalizationService (539)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module HardwareTargeting (536)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (534)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module UndoHistory (532)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module XmlParser (530)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module Blutility (528)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (526)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (525)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (522)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module SettingsEditor (520)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module ProjectLauncher (518)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module SessionFrontend (516)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module ProfilerClient (514)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module DeviceManager (512)
+[2020.04.10-07.58.13:275][159]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (511)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module AutomationController (508)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module AutomationWindow (506)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module Layers (504)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (502)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module DetailCustomizations (500)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module PackagesDialog (498)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (496)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module Persona (494)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (493)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module AnimGraph (491)
+[2020.04.10-07.58.13:330][159]LogModuleManager: Shutting down and abandoning module Kismet (488)
+[2020.04.10-07.58.13:338][159]LogModuleManager: Shutting down and abandoning module KismetWidgets (487)
+[2020.04.10-07.58.13:338][159]LogModuleManager: Shutting down and abandoning module GraphEditor (484)
+[2020.04.10-07.58.13:339][159]LogModuleManager: Shutting down and abandoning module StructViewer (482)
+[2020.04.10-07.58.13:339][159]LogModuleManager: Shutting down and abandoning module ClassViewer (480)
+[2020.04.10-07.58.13:340][159]LogModuleManager: Shutting down and abandoning module Toolbox (478)
+[2020.04.10-07.58.13:340][159]LogModuleManager: Shutting down and abandoning module ModuleUI (476)
+[2020.04.10-07.58.13:340][159]LogModuleManager: Shutting down and abandoning module MovieSceneTools (474)
+[2020.04.10-07.58.13:340][159]LogModuleManager: Shutting down and abandoning module OutputLog (472)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module GammaUI (470)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module Documentation (468)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module LiveCoding (466)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module LevelSequence (464)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (462)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module MovieScene (460)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (458)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module LauncherPlatform (456)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module AnalyticsET (454)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module AIModule (446)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module GameplayDebugger (445)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module DesktopPlatform (438)
+[2020.04.10-07.58.13:341][159]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (436)
+[2020.04.10-07.58.13:344][159]LogModuleManager: Shutting down and abandoning module ProfilerService (434)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module TaskGraph (432)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module ScreenshotTools (430)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module SteamVRController (428)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (426)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (424)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module OculusEditor (422)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module OculusInput (420)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (418)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module EditableMesh (416)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module SQLiteSupport (414)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module DatabaseSupport (412)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2020.04.10-07.58.13:410][159]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (396)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (394)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AutoSizeComments (388)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module SQLiteCore (300)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.10-07.58.13:411][159]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.10-07.58.13:512][159]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.10-07.58.13:613][159]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.10-07.58.13:613][159]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.10-07.58.13:614][159]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.10-07.58.13:614][159]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.10-07.58.13:614][159]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.10-07.58.13:614][159]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.10-07.58.13:614][159]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.10-07.58.13:615][159]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.10-07.58.13:615][159]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.10-07.58.13:615][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.10-07.58.13:615][159]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.10-07.58.13:615][159]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.10-07.58.13:617][159]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.10-07.58.13:618][159]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.10-07.58.13:621][159]LogDerivedDataCache: Shutdown
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.10-07.58.13:621][159]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.10-07.58.13:622][159]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.10-07.58.13:623][159]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.10-07.58.13:623][159]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.10-07.58.13:624][159]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.10-07.58.13:624][159]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.10-07.58.13:629][159]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.10-07.58.13:630][159]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.10-07.58.13:630][159]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.10-07.58.13:631][159]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.10-07.58.13:631][159]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.10-07.58.13:652][159]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.10-07.58.13:652][159]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.10-07.58.13:652][159]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC264F28-4640-0667-8BB9-FBBF554B9A38%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=14c900f44ff5cc5b0173238dbec4135a%7C12454aa9b449447e8eabc735cbe08801%7C647b84b0-d65b-4239-b4c8-541fdad1a27f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.10-07.58.13:681][159]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.10-07.58.13:682][159]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.10-07.58.13:683][159]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.10-07.58.13:684][159]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.10-07.58.13:685][159]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.10-07.58.13:685][159]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.10-07.58.13:685][159]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.10-07.58.13:685][159]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.10-07.58.13:685][159]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.10-07.58.13:686][159]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.10-07.58.13:687][159]LogD3D11RHI: Shutdown
+[2020.04.10-07.58.13:687][159]LogD3D11RHI: CleanupD3DDevice
+[2020.04.10-07.58.13:687][159]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.10-07.58.13:687][159]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.10-07.58.13:687][159]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.10-07.58.13:761][159]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.10-07.58.13:777][159]LogExit: Exiting.
+[2020.04.10-07.58.13:795][159]Log file closed, 04/10/20 09:58:13
